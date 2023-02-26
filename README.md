@@ -1,1 +1,1 @@
-ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
