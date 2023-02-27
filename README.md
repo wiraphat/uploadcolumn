@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
