@@ -1,1 +1,1 @@
-Add docs links to all dataset YAMLs (#7360)
+ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
