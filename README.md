@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Update mkdocs.yml (#7693)
