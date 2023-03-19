@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Add Amazon Sagemaker Docs integrations page (#7293)
