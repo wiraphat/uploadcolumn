@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+Add Weights & Biases Docs integrations page (#7199)
