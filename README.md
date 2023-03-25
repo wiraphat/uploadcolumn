@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
