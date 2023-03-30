@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Fix TFLite INT8 for OBB (#7989)
