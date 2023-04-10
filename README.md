@@ -1,1 +1,1 @@
-Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
+Updated SQL Query Plot Code (#8120)
