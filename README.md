@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Update CI.md with CI links (#8786)
