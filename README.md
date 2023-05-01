@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Fix Neural Magic links (#9144)
