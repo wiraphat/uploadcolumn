@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+YOLOv8 INT8 TFLite Inference Example (#7317)
