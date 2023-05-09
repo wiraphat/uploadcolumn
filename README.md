@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
