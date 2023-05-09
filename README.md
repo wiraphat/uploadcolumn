@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Add integrations/gradio Docs page (#7935)
