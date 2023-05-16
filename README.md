@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
