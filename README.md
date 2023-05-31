@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Rename model_id to model.id (#8447)
