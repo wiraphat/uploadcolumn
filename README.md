@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Update mkdocs.yml (#7693)
