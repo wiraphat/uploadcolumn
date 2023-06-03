@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
