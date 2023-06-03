@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
