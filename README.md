@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
