@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
