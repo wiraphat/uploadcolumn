@@ -1,1 +1,1 @@
-ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
