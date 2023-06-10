@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Mkdocs updates (#8008)
