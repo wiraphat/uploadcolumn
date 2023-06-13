@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Update mkdocs.yml (#7693)
