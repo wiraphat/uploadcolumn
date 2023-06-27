@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+YOLOv8 INT8 TFLite Inference Example (#7317)
