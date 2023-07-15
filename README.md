@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
