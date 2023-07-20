@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Add docs guide terminal images (#8819)
