@@ -1,1 +1,1 @@
-ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
