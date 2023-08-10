@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
