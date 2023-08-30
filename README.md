@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+ultralytics 8.0.229 add model.embed() method (#7098)
