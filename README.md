@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Improve Docs Modes tables (#8266)
