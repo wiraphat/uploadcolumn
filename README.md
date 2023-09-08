@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Clean up unused imgsz (#7771)
