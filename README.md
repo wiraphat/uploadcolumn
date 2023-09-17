@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+Update docs building code (#7601)
