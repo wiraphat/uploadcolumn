@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
