@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Elaborate Train and Predict mode docs arguments (#8137)
