@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Update CI.md with CI links (#8786)
