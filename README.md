@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
