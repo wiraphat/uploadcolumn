@@ -1,1 +1,1 @@
-Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
