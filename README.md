@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add PR Summary step to Ultralytics Actions (#7675)
