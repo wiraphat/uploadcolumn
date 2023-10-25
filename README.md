@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Fix bbox2segment converter (#7814)
