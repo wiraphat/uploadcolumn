@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Add plot_images conf_thresh parameter (#8446)
