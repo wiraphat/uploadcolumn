@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
