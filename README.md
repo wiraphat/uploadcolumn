@@ -1,1 +1,1 @@
-ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
