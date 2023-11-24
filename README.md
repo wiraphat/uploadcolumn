@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Add Amazon Sagemaker Docs integrations page (#7293)
