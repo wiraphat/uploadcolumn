@@ -1,1 +1,1 @@
-added badges (#45)
+add yolov10
