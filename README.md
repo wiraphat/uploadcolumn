@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
