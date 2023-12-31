@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
