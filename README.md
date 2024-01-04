@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Update OpenVINO INT8 export (#7515)
