@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
