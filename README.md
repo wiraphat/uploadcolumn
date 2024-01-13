@@ -1,1 +1,1 @@
-ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
+Move Explorer tests to scheduled CI (#8305)
