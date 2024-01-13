@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+fix yolo classify model loading error (#9196)
