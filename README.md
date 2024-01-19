@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
