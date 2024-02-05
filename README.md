@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Fix Yolo 8.0.206 scale bug (#7821)
