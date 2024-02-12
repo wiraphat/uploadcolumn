@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Add new @Retry() decorator (#7854)
