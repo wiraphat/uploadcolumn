@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
