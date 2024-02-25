@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+example Google Colab
