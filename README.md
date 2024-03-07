@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Add Weights & Biases Docs integrations page (#7199)
