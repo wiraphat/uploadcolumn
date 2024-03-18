@@ -1,1 +1,1 @@
-added badges (#45)
+Update Discord and Contributing Guide URLs (#9270)
