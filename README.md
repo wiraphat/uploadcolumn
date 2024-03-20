@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Fix docs H1 tags (#7182)
