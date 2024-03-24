@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Optimize function calls to method calls (#8507)
