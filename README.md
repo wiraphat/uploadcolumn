@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+docs: update view-results-in-terminal.md (#66)
