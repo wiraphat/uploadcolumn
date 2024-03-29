@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
