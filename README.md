@@ -1,1 +1,1 @@
-ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
