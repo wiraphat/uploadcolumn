@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
