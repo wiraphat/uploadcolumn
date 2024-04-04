@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+ultralytics 8.1.5 add OBB Tracking support (#7731)
