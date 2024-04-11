@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
