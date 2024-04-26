@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+OpenVino 2024.0.0 (#8726)
