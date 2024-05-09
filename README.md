@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+fix for KeyError: 'epoch' (#48)
