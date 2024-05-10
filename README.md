@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
