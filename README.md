@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
