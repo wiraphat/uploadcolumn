@@ -1,1 +1,1 @@
-fix predict with class filter
+Avoid creating -hub dir without processing images (#8334)
