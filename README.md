@@ -1,1 +1,1 @@
-update requirements.txt
+More robust PNNX downloads (#8866)
