@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Add PaddlePaddle Docs Integrations Page (#8858)
