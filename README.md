@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+Python refactorings and simplifications (#7549)
