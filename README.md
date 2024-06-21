@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Fix Yolo 8.0.206 scale bug (#7821)
