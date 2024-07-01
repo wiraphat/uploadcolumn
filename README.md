@@ -1,1 +1,1 @@
-add yolov10
+Fix xyxyxyxyn calculation in obb result (#8188)
