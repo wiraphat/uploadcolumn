@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
