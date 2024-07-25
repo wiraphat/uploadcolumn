@@ -1,1 +1,1 @@
-added badges (#45)
+Fix docs links (#7096)
