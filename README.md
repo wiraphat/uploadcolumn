@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
