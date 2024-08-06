@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Add HUB-SDK docs (#7775)
