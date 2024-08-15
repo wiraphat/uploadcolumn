@@ -1,1 +1,1 @@
-fix resume training
+fix predict with class filter
