@@ -1,1 +1,1 @@
-fix predict with class filter
+Add TensorRT Docs Integrations Page (#7855)
