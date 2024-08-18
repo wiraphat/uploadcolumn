@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Updated SQL Query Plot Code (#8120)
