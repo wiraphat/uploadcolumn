@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Fix RTDETR generate anchor grid out of boundary (#7247)
