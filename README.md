@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Add docs guide terminal images (#8819)
