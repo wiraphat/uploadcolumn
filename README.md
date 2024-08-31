@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
