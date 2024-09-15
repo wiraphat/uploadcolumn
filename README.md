@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Updated SQL Query Plot Code (#8120)
