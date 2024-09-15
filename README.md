@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
