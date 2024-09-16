@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
