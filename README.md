@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
