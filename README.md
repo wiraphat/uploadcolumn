@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Retry once for Docker CI failures (#8164)
